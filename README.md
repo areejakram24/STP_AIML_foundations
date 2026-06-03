@@ -4,14 +4,14 @@ This repository houses the complete codebase, practical lab tutorials, and evalu
 
 The curriculum balanced rigorous mathematical theory with hands-on implementation, moving from classical machine learning baselines to deep neural network architectures.
 
-## 📂 Repository Structure
+## Repository Structure
 * `/modules` — Theoretical implementations, foundational algorithms, and core ML concepts.
 * `/tutorials` — Guided hands-on lab notebooks focusing on data engineering, evaluation metrics, and feature selection.
 * `/assignments` — Independent programmatic milestones and problem-solving evaluations.
 
 ---
 
-## 📋 Curriculum & Syllabus Breakdown
+## Curriculum & Syllabus Breakdown
 
 | Area | Core Topics & Mathematical Concepts Mastered | Technical Core / Implementations |
 | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ The curriculum balanced rigorous mathematical theory with hands-on implementatio
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## Tech Stack & Tooling
 * **Language:** Python
 * **Core Ecosystem:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
 * **Deep Learning Frameworks:** PyTorch / TensorFlow *(Adjust based on what you used)*
