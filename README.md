@@ -29,3 +29,10 @@ The curriculum balanced rigorous mathematical theory with hands-on implementatio
 * **Core Ecosystem:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
 * **Deep Learning Frameworks:** PyTorch / TensorFlow *(Adjust based on what you used)*
 * **Environments:** Jupyter Notebooks, Google Colab
+
+---
+
+## 🗓️ Program Timeline & Context
+* **Program Duration:** May 2025 – September 2025 (5-Month Intensive)
+* **Status:** Completed & Evaluated
+* **Repository Note:** This repository was organized into structured directories in June 2026 to improve codebase maintainability and readability. The original commit history, authorship timelines, and evaluation dates from 2025 remain fully intact within the version control history of each file.
