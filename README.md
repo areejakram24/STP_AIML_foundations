@@ -27,7 +27,7 @@ The curriculum balanced rigorous mathematical theory with hands-on implementatio
 ## Tech Stack & Tooling
 * **Language:** Python
 * **Core Ecosystem:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
-* **Deep Learning Frameworks:** PyTorch / TensorFlow *(Adjust based on what you used)*
+* **Deep Learning Frameworks:** PyTorch / TensorFlow 
 * **Environments:** Jupyter Notebooks, Google Colab
 
 ---
